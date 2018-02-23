@@ -1,15 +1,15 @@
-package è“æ¡¥Java.ç®—æ³•è®­ç»ƒ;
+package À¶ÇÅJava.Ëã·¨ÑµÁ·;
 import java.util.Scanner;
 /*
-  ç®—æ³•è®­ç»ƒ P0103  
-æ—¶é—´é™åˆ¶ï¼š1.0s   å†…å­˜é™åˆ¶ï¼š256.0MB
+  Ëã·¨ÑµÁ· P0103  
+Ê±¼äÏÞÖÆ£º1.0s   ÄÚ´æÏÞÖÆ£º256.0MB
    
-ã€€ã€€ï»¿
-ã€€ã€€ä»Žé”®ç›˜è¾“å…¥ä¸€ä¸ªå¤§å†™å­—æ¯ï¼Œè¦æ±‚æ”¹ç”¨å°å†™å­—æ¯è¾“å‡ºã€‚
-è¾“å…¥
-ã€€ã€€A
-è¾“å‡º
-ã€€ã€€a
+¡¡¡¡?
+¡¡¡¡´Ó¼üÅÌÊäÈëÒ»¸ö´óÐ´×ÖÄ¸£¬ÒªÇó¸ÄÓÃÐ¡Ð´×ÖÄ¸Êä³ö¡£
+ÊäÈë
+¡¡¡¡A
+Êä³ö
+¡¡¡¡a
 
  */
 public class ALGO_161$P0103 {
